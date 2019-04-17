@@ -1,0 +1,52 @@
+# Sketches List
+## users and roles
+- login
+- register
+- forget password
+- restore password
+- profile
+- users list
+- roles list
+- add user
+- edit user
+- delete user
+- add role
+- edit role
+- delete role
+- grant/revoke roles to users
+## projects
+- projects list
+- add project
+- edit project
+- delete project
+- task list
+- add task
+- edit task
+- delete task
+- flow list
+- add flow
+- edit flow
+- delete flow
+- phases list per project
+- add phase
+- edit phase
+- delete phase
+- miles stones list per project
+- add milestone
+- edit miles stone
+- delete milestone
+- statuses list
+- add status
+- edit status
+- delete status
+- log work per user per task
+## dashboards
+- user show tasks per project
+- user show available tasks
+- user show gantt chart
+- user show burn chart
+- admin show all tasks of all users filtered / project
+- admin show gantt chart of each user or global / project
+- admin show burn chart of each project/user/all
+- admin show financial report by date interval/user/project ...
+- a global dashboard for the admins, that shows some statistics
