@@ -8,8 +8,8 @@ An always free, full featured project management
 - ![#f7ce1b](https://placehold.it/15/f7ce1b/000000?text=+) `Yellow#f7ce1b`
 
 ## Pages
-[Designs and sketches at : https://oproject.bss.design/index.html](https://oproject.bss.design/index.html)
-
+- [Designs and sketches at : https://oproject.bss.design/index.html](https://oproject.bss.design/index.html)
+- [Sketches to be done](https://raw.githubusercontent.com/seddik/oProject/master/sketches/README.MD)
 ## Model
 [MySQL database script](https://raw.githubusercontent.com/seddik/oProject/master/oProject_mysql_create.sql)
 
