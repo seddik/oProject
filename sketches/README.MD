@@ -1,10 +1,10 @@
 # Sketches List
 ## users and roles
-- login
-- register
-- forget password
-- restore password
-- profile
+- login ................ OK
+- register ................ OK
+- forget password ................ OK
+- restore password ................ OK
+- profile ................ OK
 - users list
 - roles list
 - add user
